@@ -1,2 +1,1 @@
 # hello-world
-printing patterns
